@@ -9,3 +9,5 @@
 /Manager/obj
 /DAL/bin/Debug/netstandard2.0
 /.vs/ExcelUpload/v16/Server/sqlite3
+/.vs/ExcelUpload/v16
+/.vs/ExcelUpload/config
