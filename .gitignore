@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DAL/obj
+/ExcelUpload/bin/Debug/netcoreapp2.2
+/ExcelUpload/obj
+/Manager/bin/Debug/netstandard2.0
+/Manager/obj
+/DAL/bin/Debug/netstandard2.0
+/.vs/ExcelUpload/v16/Server/sqlite3
